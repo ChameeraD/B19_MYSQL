@@ -1,4 +1,4 @@
-# ThirdFort-Note-API
+# B19_MYSQL
 
 This is a simple API that saves personal notes in a MYSQL database.
 
